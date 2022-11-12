@@ -1,0 +1,1451 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/New_York
+PRODID:-//Apple Inc.//iCal 3.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Warriors Schedule 2022-2023
+X-WR-CALDESC:Warriors Schedule 2022-2023
+X-WR-RELCALID:77E82E02-8C29-4E94-91B5-DE113AFD9344
+X-APPLE-CALENDAR-COLOR:#B027AE
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20220702T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors 68, Kings 86
+DTEND;TZID=America/New_York:20220702T223000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/1322200002/TEAM_ICS\n\n Watch the game live on NBATV\nwww.warriors.com
+UID:20221012T172837836Z-1
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:2
+DTSTART;TZID=America/New_York:20220703T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors 77, Lakers 100
+DTEND;TZID=America/New_York:20220703T223000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/1322200004/TEAM_ICS\n\n Watch the game live on NBATV\nwww.warriors.com
+UID:20221012T172837849Z-2
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20220705T150000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors 70, Heat 94
+DTEND;TZID=America/New_York:20220705T180000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/1322200005/TEAM_ICS\n\n Watch the game live on NBATV\nwww.warriors.com
+UID:20221012T172837853Z-3
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:4
+DTSTART;TZID=America/New_York:20220708T200000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors 88, Knicks 101
+DTEND;TZID=America/New_York:20220708T230000
+LOCATION:Thomas & Mack Center, Las Vegas, NV
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/1522200007/TEAM_ICS\n\n Watch the game live on ESPN2\nwww.warriors.com
+UID:20221012T172837865Z-4
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:5
+DTSTART;TZID=America/New_York:20220710T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors 86, Spurs 85
+DTEND;TZID=America/New_York:20220710T223000
+LOCATION:Thomas & Mack Center, Las Vegas, NV
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/1522200023/TEAM_ICS\n\n Watch the game live on NBATV\nwww.warriors.com
+UID:20221012T172837869Z-5
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20220712T210000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors 92, Celtics 103
+DTEND;TZID=America/New_York:20220713T000000
+LOCATION:Thomas & Mack Center, Las Vegas, NV
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/1522200035/TEAM_ICS\n\n Watch the game live on ESPN\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837885Z-6
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:7
+DTSTART;TZID=America/New_York:20220715T190000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors 82, Thunder 90
+DTEND;TZID=America/New_York:20220715T220000
+LOCATION:Thomas & Mack Center, Las Vegas, NV
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/1522200056/TEAM_ICS\n\n Watch the game live on ESPN\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837890Z-7
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:8
+DTSTART;TZID=America/New_York:20220717T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors 77, Wizards 87
+DTEND;TZID=America/New_York:20220717T223000
+LOCATION:Thomas & Mack Center, Las Vegas, NV
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/1522200074/TEAM_ICS\n\n Watch the game live on ESPN2\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837894Z-8
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:9
+DTSTART;TZID=America/New_York:20220930T060000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors 96, Wizards 87
+DTEND;TZID=America/New_York:20220930T090000
+LOCATION:Saitama Super Arena, Tokyo, 
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0012200001/TEAM_ICS\n\n Watch the game live on NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on The Team 980\nwww.warriors.com
+UID:20221012T172837907Z-9
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:10
+DTSTART;TZID=America/New_York:20221002T010000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors 104, Wizards 95
+DTEND;TZID=America/New_York:20221002T040000
+LOCATION:Saitama Super Arena, Tokyo, 
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0012200004/TEAM_ICS\n\n Watch the game live on NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837911Z-10
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:11
+DTSTART;TZID=America/New_York:20221009T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors Vs. Lakers
+DTEND;TZID=America/New_York:20221009T233000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0012200040/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837915Z-11
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:12
+DTSTART;TZID=America/New_York:20221011T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors Vs. Trail Blazers
+DTEND;TZID=America/New_York:20221012T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0012200051/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837927Z-12
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:13
+DTSTART;TZID=America/New_York:20221014T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors Vs. Nuggets
+DTEND;TZID=America/New_York:20221015T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0012200069/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN2 or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837931Z-13
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:14
+DTSTART;TZID=America/New_York:20221018T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors Vs. Lakers
+DTEND;TZID=America/New_York:20221019T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200002/TEAM_ICS\n\n Watch the game live on TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837934Z-14
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:15
+DTSTART;TZID=America/New_York:20221021T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors Vs. Nuggets
+DTEND;TZID=America/New_York:20221022T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200026/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837945Z-15
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:16
+DTSTART;TZID=America/New_York:20221023T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors Vs. Kings
+DTEND;TZID=America/New_York:20221023T233000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200042/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837948Z-16
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:17
+DTSTART;TZID=America/New_York:20221025T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors @ Suns
+DTEND;TZID=America/New_York:20221026T010000
+LOCATION:Footprint Center, Phoenix, AZ
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200055/TEAM_ICS\n\n Watch the game live on TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on KMVP 98.7 / S: KSUN\nwww.warriors.com
+UID:20221012T172837951Z-17
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:18
+DTSTART;TZID=America/New_York:20221027T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors Vs. Heat
+DTEND;TZID=America/New_York:20221028T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200068/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837954Z-18
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:19
+DTSTART;TZID=America/New_York:20221029T190000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors @ Hornets
+DTEND;TZID=America/New_York:20221029T220000
+LOCATION:Spectrum Center, Charlotte, NC
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200082/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WFNZ 92.7 FM\nwww.warriors.com
+UID:20221012T172837965Z-19
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:20
+DTSTART;TZID=America/New_York:20221030T180000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors @ Pistons
+DTEND;TZID=America/New_York:20221030T210000
+LOCATION:Little Caesars Arena, Detroit, MI
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200091/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 950 AM\nwww.warriors.com
+UID:20221012T172837967Z-20
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:21
+DTSTART;TZID=America/New_York:20221101T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors @ Heat
+DTEND;TZID=America/New_York:20221101T223000
+LOCATION:FTX Arena, Miami, FL
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200104/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WQAM 560 / S: WAQI 710\nwww.warriors.com
+UID:20221012T172837970Z-21
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:22
+DTSTART;TZID=America/New_York:20221103T190000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors @ Magic
+DTEND;TZID=America/New_York:20221103T220000
+LOCATION:Amway Center, Orlando, FL
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200118/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WYGM 96.9FM / 740AM\nwww.warriors.com
+UID:20221012T172837973Z-22
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:23
+DTSTART;TZID=America/New_York:20221104T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors @ Pelicans
+DTEND;TZID=America/New_York:20221104T233000
+LOCATION:Smoothie King Center, New Orleans, LA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200128/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WRNO 99.5FM\nwww.warriors.com
+UID:20221012T172837984Z-23
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:24
+DTSTART;TZID=America/New_York:20221107T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors Vs. Kings
+DTEND;TZID=America/New_York:20221108T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200156/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837987Z-24
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:25
+DTSTART;TZID=America/New_York:20221111T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors Vs. Cavaliers
+DTEND;TZID=America/New_York:20221112T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200182/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172837990Z-25
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:26
+DTSTART;TZID=America/New_York:20221113T210000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172837Z
+SUMMARY:Warriors @ Kings
+DTEND;TZID=America/New_York:20221114T000000
+LOCATION:Golden 1 Center, Sacramento, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200197/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on Sactown Sports 1140 AM\nwww.warriors.com
+UID:20221012T172837993Z-26
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172837Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:27
+DTSTART;TZID=America/New_York:20221114T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Spurs
+DTEND;TZID=America/New_York:20221115T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200205/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838004Z-27
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:28
+DTSTART;TZID=America/New_York:20221116T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Suns
+DTEND;TZID=America/New_York:20221117T010000
+LOCATION:Footprint Center, Phoenix, AZ
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200220/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on KMVP 98.7 / S: KSUN\nwww.warriors.com
+UID:20221012T172838007Z-28
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:29
+DTSTART;TZID=America/New_York:20221118T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Knicks
+DTEND;TZID=America/New_York:20221119T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200233/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838010Z-29
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:30
+DTSTART;TZID=America/New_York:20221120T190000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Rockets
+DTEND;TZID=America/New_York:20221120T220000
+LOCATION:Toyota Center, Houston, TX
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200245/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 790 AM / S: 93.3 FM\nwww.warriors.com
+UID:20221012T172838014Z-30
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:31
+DTSTART;TZID=America/New_York:20221121T200000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Pelicans
+DTEND;TZID=America/New_York:20221121T230000
+LOCATION:Smoothie King Center, New Orleans, LA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200253/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WRNO 99.5FM\nwww.warriors.com
+UID:20221012T172838025Z-31
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:32
+DTSTART;TZID=America/New_York:20221123T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Clippers
+DTEND;TZID=America/New_York:20221124T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200271/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838028Z-32
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:33
+DTSTART;TZID=America/New_York:20221125T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Jazz
+DTEND;TZID=America/New_York:20221126T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200284/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838030Z-33
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:34
+DTSTART;TZID=America/New_York:20221127T153000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Timberwolves
+DTEND;TZID=America/New_York:20221127T183000
+LOCATION:Target Center, Minneapolis, MN
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200291/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 830 WCCO\nwww.warriors.com
+UID:20221012T172838033Z-34
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:35
+DTSTART;TZID=America/New_York:20221129T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Mavericks
+DTEND;TZID=America/New_York:20221129T223000
+LOCATION:American Airlines Center, Dallas, TX
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200310/TEAM_ICS\n\n Watch the game live on NBCSBA\, TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 97.1 FM / S: 99.1 FM\nwww.warriors.com
+UID:20221012T172838036Z-35
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:36
+DTSTART;TZID=America/New_York:20221202T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Bulls
+DTEND;TZID=America/New_York:20221203T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200336/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838047Z-36
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:37
+DTSTART;TZID=America/New_York:20221203T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Rockets
+DTEND;TZID=America/New_York:20221203T233000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200342/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838049Z-37
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:38
+DTSTART;TZID=America/New_York:20221205T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Pacers
+DTEND;TZID=America/New_York:20221206T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200359/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838052Z-38
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:39
+DTSTART;TZID=America/New_York:20221207T210000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Jazz
+DTEND;TZID=America/New_York:20221208T000000
+LOCATION:Vivint Arena, Salt Lake City, UT
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200372/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on KZNS / S: KTUB\nwww.warriors.com
+UID:20221012T172838055Z-39
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:40
+DTSTART;TZID=America/New_York:20221210T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Celtics
+DTEND;TZID=America/New_York:20221210T233000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200392/TEAM_ICS\n\n Watch the game live on ABC or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838066Z-40
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:41
+DTSTART;TZID=America/New_York:20221213T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Bucks
+DTEND;TZID=America/New_York:20221213T223000
+LOCATION:Fiserv Forum, Milwaukee, WI
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200410/TEAM_ICS\n\n Watch the game live on NBCSBA\, TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nwww.warriors.com
+UID:20221012T172838069Z-41
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:42
+DTSTART;TZID=America/New_York:20221214T190000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Pacers
+DTEND;TZID=America/New_York:20221214T220000
+LOCATION:Gainbridge Fieldhouse, Indianapolis, IN
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200415/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 93.5/107.5 The Fan\nwww.warriors.com
+UID:20221012T172838073Z-42
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:43
+DTSTART;TZID=America/New_York:20221216T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ 76ers
+DTEND;TZID=America/New_York:20221216T223000
+LOCATION:Wells Fargo Center, Philadelphia, PA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200432/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 97.5 The Fanatic\nwww.warriors.com
+UID:20221012T172838085Z-43
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:44
+DTSTART;TZID=America/New_York:20221218T180000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Raptors
+DTEND;TZID=America/New_York:20221218T210000
+LOCATION:Scotiabank Arena, Toronto, ON
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200448/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on Sportsnet 590\nwww.warriors.com
+UID:20221012T172838088Z-44
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:45
+DTSTART;TZID=America/New_York:20221220T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Knicks
+DTEND;TZID=America/New_York:20221220T223000
+LOCATION:Madison Square Garden, New York, NY
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200463/TEAM_ICS\n\n Watch the game live on NBCSBA\, TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on ESPN NY 98.7\nwww.warriors.com
+UID:20221012T172838091Z-45
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:46
+DTSTART;TZID=America/New_York:20221221T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Nets
+DTEND;TZID=America/New_York:20221221T223000
+LOCATION:Barclays Center, Brooklyn, NY
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200470/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WFAN-FM\nwww.warriors.com
+UID:20221012T172838094Z-46
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:47
+DTSTART;TZID=America/New_York:20221225T200000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Grizzlies
+DTEND;TZID=America/New_York:20221225T230000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200496/TEAM_ICS\n\n Watch the game live on ABC/ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838106Z-47
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:48
+DTSTART;TZID=America/New_York:20221227T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Hornets
+DTEND;TZID=America/New_York:20221228T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200513/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838109Z-48
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:49
+DTSTART;TZID=America/New_York:20221228T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Jazz
+DTEND;TZID=America/New_York:20221229T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200521/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838112Z-49
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:50
+DTSTART;TZID=America/New_York:20221230T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Trail Blazers
+DTEND;TZID=America/New_York:20221231T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200536/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838115Z-50
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:51
+DTSTART;TZID=America/New_York:20230102T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Hawks
+DTEND;TZID=America/New_York:20230103T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200558/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838126Z-51
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:52
+DTSTART;TZID=America/New_York:20230104T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Pistons
+DTEND;TZID=America/New_York:20230105T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200573/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838129Z-52
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:53
+DTSTART;TZID=America/New_York:20230107T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Magic
+DTEND;TZID=America/New_York:20230107T233000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200594/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838135Z-53
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:54
+DTSTART;TZID=America/New_York:20230110T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Suns
+DTEND;TZID=America/New_York:20230111T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200615/TEAM_ICS\n\n Watch the game live on TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838147Z-54
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:55
+DTSTART;TZID=America/New_York:20230113T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Spurs
+DTEND;TZID=America/New_York:20230113T223000
+LOCATION:Alamodome, SanAntonio, TX
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200635/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WOAI/KXTN\nwww.warriors.com
+UID:20221012T172838150Z-55
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:56
+DTSTART;TZID=America/New_York:20230115T153000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Bulls
+DTEND;TZID=America/New_York:20230115T183000
+LOCATION:United Center, Chicago, IL
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200650/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 670 The Score\nwww.warriors.com
+UID:20221012T172838153Z-56
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:57
+DTSTART;TZID=America/New_York:20230116T150000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Wizards
+DTEND;TZID=America/New_York:20230116T180000
+LOCATION:Capital One Arena, Washington, DC
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200660/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on The Team 980\nwww.warriors.com
+UID:20221012T172838164Z-57
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:58
+DTSTART;TZID=America/New_York:20230119T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Celtics
+DTEND;TZID=America/New_York:20230119T223000
+LOCATION:TD Garden, Boston, MA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200679/TEAM_ICS\n\n Watch the game live on TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WROR (105.7 FM)\nwww.warriors.com
+UID:20221012T172838168Z-58
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:59
+DTSTART;TZID=America/New_York:20230120T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Cavaliers
+DTEND;TZID=America/New_York:20230120T223000
+LOCATION:Rocket Mortgage FieldHouse, Cleveland, OH
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200685/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WTAM/WMMS/WNZN\nwww.warriors.com
+UID:20221012T172838171Z-59
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:60
+DTSTART;TZID=America/New_York:20230122T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Nets
+DTEND;TZID=America/New_York:20230122T233000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200704/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838174Z-60
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:61
+DTSTART;TZID=America/New_York:20230125T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Grizzlies
+DTEND;TZID=America/New_York:20230126T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200726/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838186Z-61
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:62
+DTSTART;TZID=America/New_York:20230127T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Raptors
+DTEND;TZID=America/New_York:20230128T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200740/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838189Z-62
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:63
+DTSTART;TZID=America/New_York:20230130T200000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Thunder
+DTEND;TZID=America/New_York:20230130T230000
+LOCATION:Paycom Center, Oklahoma City, OK
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200759/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WWLS/WKY\nwww.warriors.com
+UID:20221012T172838192Z-63
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:64
+DTSTART;TZID=America/New_York:20230201T200000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Timberwolves
+DTEND;TZID=America/New_York:20230201T230000
+LOCATION:Target Center, Minneapolis, MN
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200774/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 830 WCCO\nwww.warriors.com
+UID:20221012T172838195Z-64
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:65
+DTSTART;TZID=America/New_York:20230202T210000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Nuggets
+DTEND;TZID=America/New_York:20230203T000000
+LOCATION:Ball Arena, Denver, CO
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200783/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on KKSE 92.5FM\nwww.warriors.com
+UID:20221012T172838207Z-65
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:66
+DTSTART;TZID=America/New_York:20230204T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Mavericks
+DTEND;TZID=America/New_York:20230204T233000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200800/TEAM_ICS\n\n Watch the game live on ABC or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838210Z-66
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:67
+DTSTART;TZID=America/New_York:20230206T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Thunder
+DTEND;TZID=America/New_York:20230207T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200814/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838213Z-67
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:68
+DTSTART;TZID=America/New_York:20230208T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Trail Blazers
+DTEND;TZID=America/New_York:20230209T010000
+LOCATION:Moda Center, Portland, OR
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200830/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on Rip City Radio 620\nwww.warriors.com
+UID:20221012T172838224Z-68
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:69
+DTSTART;TZID=America/New_York:20230211T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Lakers
+DTEND;TZID=America/New_York:20230211T233000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200853/TEAM_ICS\n\n Watch the game live on ABC or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838228Z-69
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:70
+DTSTART;TZID=America/New_York:20230213T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Wizards
+DTEND;TZID=America/New_York:20230214T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200866/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838231Z-70
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:71
+DTSTART;TZID=America/New_York:20230214T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Clippers
+DTEND;TZID=America/New_York:20230215T010000
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200871/TEAM_ICS\n\n Watch the game live on NBCSBA\, TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on AM 570 KLAC/S: KWKW\nwww.warriors.com
+UID:20221012T172838234Z-71
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:72
+DTSTART;TZID=America/New_York:20230223T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Lakers
+DTEND;TZID=America/New_York:20230224T010000
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200893/TEAM_ICS\n\n Watch the game live on TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on ESPN LA 710/KWKW (S)\nwww.warriors.com
+UID:20221012T172838246Z-72
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:73
+DTSTART;TZID=America/New_York:20230224T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Rockets
+DTEND;TZID=America/New_York:20230225T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200901/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838249Z-73
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:74
+DTSTART;TZID=America/New_York:20230226T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Timberwolves
+DTEND;TZID=America/New_York:20230226T223000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200916/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838253Z-74
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:75
+DTSTART;TZID=America/New_York:20230228T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Trail Blazers
+DTEND;TZID=America/New_York:20230301T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200931/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838264Z-75
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:76
+DTSTART;TZID=America/New_York:20230302T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Clippers
+DTEND;TZID=America/New_York:20230303T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200945/TEAM_ICS\n\n Watch the game live on NBCSBA\, TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838270Z-76
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:77
+DTSTART;TZID=America/New_York:20230303T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Pelicans
+DTEND;TZID=America/New_York:20230304T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200953/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838274Z-77
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:78
+DTSTART;TZID=America/New_York:20230305T153000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Lakers
+DTEND;TZID=America/New_York:20230305T183000
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200964/TEAM_ICS\n\n Watch the game live on ABC or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on ESPN LA 710/KWKW (S)\nwww.warriors.com
+UID:20221012T172838285Z-78
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:79
+DTSTART;TZID=America/New_York:20230307T200000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Thunder
+DTEND;TZID=America/New_York:20230307T230000
+LOCATION:Paycom Center, Oklahoma City, OK
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200982/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WWLS/WKY\nwww.warriors.com
+UID:20221012T172838289Z-79
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:80
+DTSTART;TZID=America/New_York:20230309T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Grizzlies
+DTEND;TZID=America/New_York:20230310T010000
+LOCATION:FedExForum, Memphis, TN
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022200996/TEAM_ICS\n\n Watch the game live on TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on ESPN 92.9FM/680AM\nwww.warriors.com
+UID:20221012T172838292Z-80
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:81
+DTSTART;TZID=America/New_York:20230311T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Bucks
+DTEND;TZID=America/New_York:20230311T233000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201012/TEAM_ICS\n\n Watch the game live on ABC or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838295Z-81
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:82
+DTSTART;TZID=America/New_York:20230313T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Suns
+DTEND;TZID=America/New_York:20230314T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201025/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838307Z-82
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:83
+DTSTART;TZID=America/New_York:20230315T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Clippers
+DTEND;TZID=America/New_York:20230316T010000
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201041/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on AM 570 KLAC/S: KWKW\nwww.warriors.com
+UID:20221012T172838311Z-83
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:84
+DTSTART;TZID=America/New_York:20230317T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Hawks
+DTEND;TZID=America/New_York:20230317T223000
+LOCATION:State Farm Arena, Atlanta, GA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201048/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on WZGC\nwww.warriors.com
+UID:20221012T172838314Z-84
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:85
+DTSTART;TZID=America/New_York:20230318T200000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Grizzlies
+DTEND;TZID=America/New_York:20230318T230000
+LOCATION:FedExForum, Memphis, TN
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201061/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on ESPN 92.9FM/680AM\nwww.warriors.com
+UID:20221012T172838327Z-85
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:86
+DTSTART;TZID=America/New_York:20230320T200000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Rockets
+DTEND;TZID=America/New_York:20230320T230000
+LOCATION:Toyota Center, Houston, TX
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201074/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 790 AM / S: 93.3 FM\nwww.warriors.com
+UID:20221012T172838330Z-86
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:87
+DTSTART;TZID=America/New_York:20230322T193000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Mavericks
+DTEND;TZID=America/New_York:20230322T223000
+LOCATION:American Airlines Center, Dallas, TX
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201086/TEAM_ICS\n\n Watch the game live on NBCSBA\, ESPN or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 97.1 FM / S: 99.1 FM\nwww.warriors.com
+UID:20221012T172838334Z-87
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:88
+DTSTART;TZID=America/New_York:20230324T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. 76ers
+DTEND;TZID=America/New_York:20230325T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201103/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838345Z-88
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:89
+DTSTART;TZID=America/New_York:20230326T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Timberwolves
+DTEND;TZID=America/New_York:20230326T233000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201121/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838349Z-89
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:90
+DTSTART;TZID=America/New_York:20230328T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Pelicans
+DTEND;TZID=America/New_York:20230329T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201135/TEAM_ICS\n\n Watch the game live on NBCSBA\, TNT or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838353Z-90
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:91
+DTSTART;TZID=America/New_York:20230331T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Spurs
+DTEND;TZID=America/New_York:20230401T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201158/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838364Z-91
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:92
+DTSTART;TZID=America/New_York:20230402T203000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Nuggets
+DTEND;TZID=America/New_York:20230402T233000
+LOCATION:Ball Arena, Denver, CO
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201175/TEAM_ICS\n\n Watch the game live on NBCSBA\, NBATV or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on KKSE 92.5FM\nwww.warriors.com
+UID:20221012T172838368Z-92
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:93
+DTSTART;TZID=America/New_York:20230404T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors Vs. Thunder
+DTEND;TZID=America/New_York:20230405T010000
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201187/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on 95.7 The Game\nwww.warriors.com
+UID:20221012T172838372Z-93
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:94
+DTSTART;TZID=America/New_York:20230407T220000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Kings
+DTEND;TZID=America/New_York:20230408T010000
+LOCATION:Golden 1 Center, Sacramento, CA
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201211/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on Sactown Sports 1140 AM\nwww.warriors.com
+UID:20221012T172838376Z-94
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:95
+DTSTART;TZID=America/New_York:20230409T153000
+STATUS:TENTATIVE
+DTSTAMP:20221012T172838Z
+SUMMARY:Warriors @ Trail Blazers
+DTEND;TZID=America/New_York:20230409T183000
+LOCATION:Moda Center, Portland, OR
+DESCRIPTION:Get tickets for the game: https://a.data.nba.com/tickets/single/2022/0022201230/TEAM_ICS\n\n Watch the game live on NBCSBA or NBA League Pass:https://www.nba.com/warriors/leaguepass\n\nListen live on Rip City Radio 620\nwww.warriors.com
+UID:20221012T172838387Z-95
+TRANSP:OPAQUE
+ORGANIZER:CN=Warriors Schedule 2022-2023
+CLASS:PUBLIC
+CREATED:20221012T172838Z
+END:VEVENT
+END:VCALENDAR
