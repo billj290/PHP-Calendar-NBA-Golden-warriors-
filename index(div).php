@@ -37,13 +37,15 @@
         }
 
         .atag {
-            display: flex;
-            flex-direction: column;
+            display: inline-block;
+            /* flex-direction: column; */
             width: 30%;
-            font-size: x-large;
+            font-size: 45px;
             font-weight: bold;
-
-
+        }
+        .atag a:hover{
+            background-color: rgb(255, 197, 45);
+            border-radius: 10px;
         }
 
         .section {
@@ -172,11 +174,11 @@
             <img src="./warriors.png" alt="">
         </div>
         <div class="atag">
-            <a href="?y=<?= $year; ?>&m=<?= $prevMonth; ?>">上個月</a>
+            <a href="?y=<?= $year; ?>&m=<?= $prevMonth; ?>" style="text-decoration:none;">上個月</a>
             <br>
-            <a href=""><?= $year; ?>年<?= $month; ?>月</a>
+            <a href="" style="text-decoration:none;"><?= $year; ?>年<?= $month; ?>月</a>
             <br>
-            <a href="?y=<?= $year; ?>&m=<?= $nextMonth; ?>">下個月</a>
+            <a href="?y=<?= $year; ?>&m=<?= $nextMonth; ?>" style="text-decoration:none;">下個月</a>
             <br>
             <div class="box">
                 <p>play at home</p> 
