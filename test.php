@@ -1,44 +1,34 @@
 <?php
-//讀入賽程,變成字串.
-$icalString = file_get_contents("Golden State Warriors - Warriors.ics");
-echo $warriorString;
-//將賽程用"BEGIN:"分開, 變成VEVENT 及 VALARM的陣列.
-//  $icsData = explode("BEGIN:VEVENT", $icalString);
+$icalString = file_get_contents("Warriors(starttime).ics");
 // echo "<pre>";
-// print_r($icsData);
+// echo $icalString;
 // echo "</pre>";
 
-// $icsDates = array();
-// foreach ( $icsData as $key => $value ) {
-//     $icsDatesMeta [$key] = explode ( "\n", $value );
-// }
+$icalDate = explode("+", $icalString);
 // echo "<pre>";
-// print_r($icsData);
+// print_r($icalDate);
 // echo "</pre>";
-// for($i=0;$i<189;$i++){
-//  if(strstr($icsData[$i],"Knicks")){
-//     $a[]=$icsData[$i];
-//  }
-// }
-//  print_r($a);
-// foreach($a as $key => $value){
-//     $b[]=explode(".",$a[$key]);
-// }
-// echo $a[0];
-// echo "<pre>";
-// print_r($b);
-// echo "</pre>";
-// foreach($b as $key => $value){
-//     foreach($b[$key] as $key2 => $value2)
-//     {
-//     $c[$key][]=explode(":",$b[$key][$key2]);
-//     }
-// }
-// echo "<pre>";
-// print_r($c);
-// echo "</pre>";
-// for($i=0;$i<3;$i++){
-//     echo $c[$i][1][1];
-//     echo "<hr>";
-// }
+
+for($i=0;$i<count($icalDate);$i++){
+    if($i%3==2){
+        $icalTime[$icalDate[$i-1]]=$icalDate[$i];
+    }
+}
+echo "<pre>";
+print_r($icalTime);
+echo "</pre>";
+
+// $value = "2022-11-18 03:00";
+// $value2 = date("H:i",strtotime("$value +8 hours"));
+// echo $value2;
+
+// 轉成台灣的時間+8小時
+foreach($icalTime as $key => $value){
+    $icalTaiwantime[$key]=date("H:i",strtotime("$key.$value+8 hours"));
+}
+
+echo "<pre>";
+print_r($icalTaiwantime);
+echo "</pre>";
+
 ?>

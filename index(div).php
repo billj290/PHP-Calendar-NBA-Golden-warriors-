@@ -33,6 +33,21 @@
     // echo "<pre>";
     // print_r($gameSchedule);
     // echo "</pre>";
+
+    //以下製作欲導入的球隊比賽開始時間, 最後改成鍵=賽程年月日*值=比賽幾點開始(美國時間)
+    $icalString = file_get_contents("Warriors(starttime).ics");
+    $icalDate = explode("+", $icalString);
+    for($i=0;$i<count($icalDate);$i++){
+        if($i%3==2){
+            $icalTime[$icalDate[$i-1]]=$icalDate[$i];
+        }
+    }
+    //轉換成台灣時間:
+    foreach($icalTime as $key => $value){
+        $icalTaiwantime[$key]=date("H:i",strtotime("$key.$value+8 hours"));
+    }
+
+
     $cal = [];  //設立一個空陣列來裝要輸出的年月日
 
     $month = (isset($_GET['m'])) ? $_GET['m'] : date('n');
@@ -116,13 +131,13 @@
                     if (array_key_exists($day, $gameSchedule) && false !== (strpos($gameSchedule[$day], "vs."))) {
                         echo "<div class='date' style='background-color:rgb(255,197,45)'>";
                         echo $show;
-                        echo "<div>{$gameSchedule[$day]}</div>";
+                        echo "<div>開賽時間:{$icalTaiwantime[$day]}<br>{$gameSchedule[$day]}</div>";
                         echo "</div>";
                     } elseif (array_key_exists($day, $gameSchedule)) {
                         echo "<div class='date'>";
                         echo $show;
                         echo "<button type='button' class='btn btn-secondary' data-bs-toggle='popover' title='gogogo' >
-                        {$gameSchedule[$day]}</button>";
+                        開賽時間:{$icalTaiwantime[$day]}<br>{$gameSchedule[$day]}</button>";
                         // echo "<div>{$gameSchedule[$day]}</div>";
                         echo "</div>";
                     } else {
