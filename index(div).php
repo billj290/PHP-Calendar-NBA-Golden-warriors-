@@ -76,11 +76,11 @@
             <img src="./warriors.png" alt="">
         </div>
         <div class="atag">
-            <a href="?y=<?= $year; ?>&m=<?= $prevMonth; ?>" style="text-decoration:none;">上個月</a>
+            <a href="?y=<?= $year; ?>&m=<?= $prevMonth; ?>" style="text-decoration:none; color:rgb(0, 67, 137)">上個月</a>
             <br>
-            <a href="" style="text-decoration:none;"><?= $year; ?>年<?= $month; ?>月</a>
+            <a href="" style="text-decoration:none; color:rgb(0, 67, 137)"><?= $year; ?>年<?= $month; ?>月</a>
             <br>
-            <a href="?y=<?= $year; ?>&m=<?= $nextMonth; ?>" style="text-decoration:none;">下個月</a>
+            <a href="?y=<?= $year; ?>&m=<?= $nextMonth; ?>" style="text-decoration:none; color:rgb(0, 67, 137)">下個月</a>
             <br>
             <div class="box">
                 <p>play at home</p>
@@ -121,8 +121,8 @@
                     } elseif (array_key_exists($day, $gameSchedule)) {
                         echo "<div class='date'>";
                         echo $show;
-                        echo "<button type='button' class='btn btn-lg btn-danger' data-toggle='popover' title='Popover title' data-content='And here's some amazing content. It's very engaging. Right?'>{$gameSchedule[$day]}</button>
-                        ";
+                        echo "<button type='button' class='btn btn-secondary' data-bs-toggle='popover' title='gogogo' >
+                        {$gameSchedule[$day]}</button>";
                         // echo "<div>{$gameSchedule[$day]}</div>";
                         echo "</div>";
                     } else {
@@ -137,6 +137,10 @@
     <!-- <footer class="footer">
         footer
     </footer> -->
+    <script>
+        const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
+        const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
+    </script>
 </body>
 
 </html>
