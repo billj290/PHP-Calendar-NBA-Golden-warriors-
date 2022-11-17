@@ -6,111 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>萬年曆div</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css
+">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js
+">
+    <link rel="stylesheet" href="style.css">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: Arial, Helvetica, sans-serif;
-        }
 
-        .header {
-            display: flex;
-            width: 100%;
-            flex-wrap: wrap;
-            margin: 0 auto;
-            justify-content: center;
-            align-items: center;
-            margin-top: -80px;
-
-        }
-
-        .pic {
-            /* display: inline-block; */
-            width: 70%;
-        }
-
-        .pic img {
-            max-width: 100%;
-            max-height: 100%;
-            /*圖片的大小設定為div滿版*/
-        }
-
-        .atag {
-            display: inline-block;
-            /* flex-direction: column; */
-            width: 30%;
-            font-size: 45px;
-            font-weight: bold;
-        }
-        .atag a:hover{
-            background-color: rgb(255, 197, 45);
-            border-radius: 10px;
-        }
-
-        .section {
-            display: flex;
-            width: 100%;
-        }
-
-        .tittle {
-            width: 90%;
-            margin: 0;
-            padding: 0;
-        }
-
-        .weekday {
-            display: flex;
-            width: 80%;
-            justify-content: space-around;
-            margin-left: 0px;
-            color: rgb(0, 67, 137);
-            font-weight: bold;
-        }
-
-        .cal {
-            display: flex;
-            flex-wrap: wrap;
-            width: 80%;
-            margin: auto;
-            padding: 0;
-            color: rgb(0, 67, 137);
-            font-weight: bold;
-            margin-left: 0;
-
-        }
-
-        .cal .date {
-            border: 1px solid rgb(255, 255, 255);
-            width: calc(100% / 7);
-        }
-
-        .date {
-            background-color: rgb(245, 245, 246);
-        }
-
-        .aside {
-            border: 1px solid rgb(255, 255, 255);
-            width: 10%;
-            margin: 0;
-            padding: 0;
-            max-height: 100%;
-            background-color: rgb(0, 67, 137);
-            color: rgb(255, 197, 45);
-            writing-mode: vertical-rl;
-            margin-left: 100px;
-            font-size: xx-large;
-            /* text-orientation: sideways; */
-        }
-        .box{
-            background-color: rgb(255,197,45);
-            width: 80px;
-            height: 80px;
-            color: rgb(0, 67, 137);
-        }
-        p{
-            font-size: medium;
-        }
     </style>
 </head>
 
@@ -181,7 +83,7 @@
             <a href="?y=<?= $year; ?>&m=<?= $nextMonth; ?>" style="text-decoration:none;">下個月</a>
             <br>
             <div class="box">
-                <p>play at home</p> 
+                <p>play at home</p>
             </div>
         </div>
     </div>
@@ -219,7 +121,9 @@
                     } elseif (array_key_exists($day, $gameSchedule)) {
                         echo "<div class='date'>";
                         echo $show;
-                        echo "<div>{$gameSchedule[$day]}</div>";
+                        echo "<button type='button' class='btn btn-lg btn-danger' data-toggle='popover' title='Popover title' data-content='And here's some amazing content. It's very engaging. Right?'>{$gameSchedule[$day]}</button>
+                        ";
+                        // echo "<div>{$gameSchedule[$day]}</div>";
                         echo "</div>";
                     } else {
                         echo "<div class='date'>$show</div>";
